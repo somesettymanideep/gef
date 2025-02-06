@@ -13982,7 +13982,7 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 }
 
 .bg_banner-bg-area {
-  background-image: url(../images/banner/02.webp);
+  background-image: url(../images/about/homemade.png);
   height: 737px;
   display: flex;
   align-items: center;
@@ -14128,10 +14128,10 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 }
 
 .banner-area-start.bg_banner-bg-area.two {
-  background-image: url(../images/banner/13.webp);
+  background-image: url(../images/about/homemade.png);
 }
 .banner-area-start.bg_banner-bg-area.three {
-  background-image: url(../images/banner/12.webp);
+  background-image: url(../images/about/hoarding.png);
 }
 
 .banner-swiper-area-one .mySwiper-banner-one .swiper-slide span.pre {
@@ -15117,17 +15117,17 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   z-index: -1;
 }
 .engineering-banner .bg_banner-bg-area {
-  background-image: url(../images/banner/05.jpg);
-  height: 790px;
+  background-image: url(../images/about/homemade.png);
+  height: 550px;
 }
 @media only screen and (max-width: 991px) {
   .engineering-banner .bg_banner-bg-area {
-    height: 650px;
+    /* height: 650px; */
   }
 }
 @media only screen and (max-width: 767px) {
   .engineering-banner .bg_banner-bg-area {
-    height: 550px;
+    /* height: 550px; */
   }
 }
 .engineering-banner .bg_banner-bg-area span {
@@ -15170,10 +15170,10 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   }
 }
 .engineering-banner .bg_banner-bg-area.two {
-  background-image: url(../images/banner/06.jpg);
+  background-image: url(../images/about/hoarding.png);
 }
 .engineering-banner .bg_banner-bg-area.three {
-  background-image: url(../images/banner/07.jpg);
+  background-image: url(../images/banner/02.jpg);
 }
 .engineering-banner .swiper-pagination {
   left: 50%;
